@@ -9,11 +9,11 @@ const config: Config = {
   theme: {
     extend: {
       colors: {
-        background: "var(--background)",
-        foreground: "var(--foreground)",
+        CustomColor:'rgba(201, 205, 136, 1)'
       },
     },
   },
   plugins: [],
 };
+
 export default config;
